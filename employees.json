@@ -1,0 +1,30 @@
+[
+  {
+    "empId": "Emp1",
+    "empName": "Harry",
+    "empRole": "Developer",
+    "empContact": "+12345",
+    "empAddress": "st1 132 NY"
+  },
+  {
+    "empId": "Emp2",
+    "empName": "Katie",
+    "empRole": "Sr. Developer",
+    "empContact": "+12345",
+    "empAddress": "st1 132 TX"
+  },
+  {
+    "empId": "Emp3",
+    "empName": "Sarah",
+    "empRole": "Principle Developer",
+    "empContact": "+12345",
+    "empAddress": "st1 132 Seattle"
+  },
+  {
+    "empId": "Emp4",
+    "empName": "Tian",
+    "empRole": "Developer",
+    "empContact": "+12345",
+    "empAddress": "st1 Manhattan"
+  }
+]
