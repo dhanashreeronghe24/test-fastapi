@@ -6,7 +6,7 @@
 3. sudo vim /etc/nginx/sites-enabled/fastapi_nginx
 4. server {
     listen 80;
-    server_name <public IPv4>;
+    server_name "<public IPv4>";
     location / {
       proxy_pass http://127.0.0.1:8000;
      }
@@ -20,5 +20,5 @@
 11. cat requirements.txt 
 12. pip3 install -r requirements.txt 
 13. python3 -m uvicorn main:testApp
-14. http://<public IPv4>
+14. Access http://"<public IPv4>"
 
